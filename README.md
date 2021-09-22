@@ -51,7 +51,7 @@ echo '''
 ).build()
 ''' >> ~/splitmind/gdbinit.py
 ```
-__You need to run gdb within tmux for this to work __
+*You need to run gdb within tmux for this to work*
 
 #### install Rsa_Ctf_Tool
 ###### https://github.com/Ganapati/RsaCtfTool
